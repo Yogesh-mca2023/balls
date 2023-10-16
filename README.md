@@ -1,10 +1,16 @@
 # random ball movement
 
-**DESCRIPTION:** This project combines HTML and JavaScript to create an interactive web application. It features a container with a distinctive black border and a soothing gray background. Inside this container, colorful balls come to life, each with a unique color, and initial velocity. These balls move about freely within the container, creating a visually captivating animation. The magic behind this animation is made possible by JavaScript's setInterval function. It continuously updates the position of each ball at regular intervals. As these balls traverse the container, they interact dynamically with the container's walls, bouncing off them and producing an engaging and lively visual display.
+**Description:**
+Elevate the animation by enabling user input for modifying the ball's movement, incorporating elements like keyboard and mouse controls, as well as introducing obstacles or targets to enhance interactivity.
 
-**Steps to Run the Project:** Open the github link to run the program random ball movement.
+**How to run the code:**
 
-**Future Improvements:** This project can be further enhanced by adding special effects like the balls hitting 
-a special target.
+***Step1:*** Save the HTML file with a .html extension.
 
-  https://yogesh-mca2023.github.io/random_ball/
+***Step2:*** Click the "Go Live" button to open a new browser window displaying the Bouncing_Ball animation.
+
+**Future improvement:**
+consider integrating user interaction like click-and-drag functionality, customizable ball properties, and physics-based interactions, such as ball collisions, for a more engaging and interactive animation.
+
+
+
